@@ -1,0 +1,40 @@
+.contact-body {
+    background-image: url(Media/bg_img_2.jpg);
+    background-size: cover;
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-color: white;
+}
+
+.contact-content {
+    width: 60%;
+    text-align: center;
+}
+
+.contact-info-table {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.contact-info-table td {
+    width: 50%;
+}
+
+.contact-info-table tr {
+    line-height: 35px;
+}
+
+.left-col {
+    text-align: right;
+    padding-right: 20px;
+}
+
+.right-col {
+    text-align: left;
+    padding-left: 20px;
+}
+
+.inverted {
+    filter: invert(100%);
+}
